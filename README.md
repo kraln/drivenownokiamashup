@@ -1,4 +1,5 @@
 drivenownokiamashup
 ===================
+MPL Licensed.
 
-Mashup between the DriveNow JSON and Nokia MH5
+A quick and dirty mashup between the DriveNow json feed and the Nokia MH5 API. 
